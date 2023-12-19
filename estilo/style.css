@@ -40,7 +40,10 @@ main>section>iframe#tela{
     height: 470px;
 }
 main>section#redes-sociais{
-    text-align: right;
+    position: absolute;
+    left: 50%;
+    top: 94%;
+    transform: translate(-50%, -50%);
 }
 main>section#redes-sociais>a>img{
     border-radius: 50%;
