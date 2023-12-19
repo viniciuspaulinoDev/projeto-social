@@ -47,8 +47,8 @@ main>section#redes-sociais{
 }
 main>section#redes-sociais>a>img{
     border-radius: 50%;
-    width: 40px;
-    margin: 5px;
+    width: 35px;
+    margin: 2px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.644);
     box-sizing: border-box;
 }
