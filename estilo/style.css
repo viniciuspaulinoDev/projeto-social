@@ -45,8 +45,8 @@ main>section>iframe#tela{
 }
 main>section#redes-sociais{
     position: relative;
-    top: 89%;
     text-align: center;
+    padding-top: 560px;
 }
 main>section#redes-sociais>a>img{
     border-radius: 50%;
